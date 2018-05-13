@@ -1,7 +1,7 @@
 ---
-title: We've raised $2000!
+title: First clinic built in Fond-des-Blancs!
 author_staff_member: wooly-mcbaa
-date: 2016-11-01
-featured_image: https://unsplash.it/570/400?image=1080
+date: 2015-10-01
+featured_image: http://globaleyeproject.org/wp-content/uploads/2013/01/2012-Anshu-in-optometry-1024x768.jpg
 ---
-Thank you do everyone who has made contributions. This money is going towards reaching sheep in paddocks far and wide. The revolution has begun.
+Dr. Anshu Chandra moves to Fond-des-Blancs, Haiti, and builds a permanent health clinic in partnership with Saint Boniface Haiti Foundation. 
