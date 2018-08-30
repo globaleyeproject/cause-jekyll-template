@@ -1,7 +1,7 @@
 <!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="221px" height="21px" viewBox="0 0 221.634 81.425" enable-background="new 0 0 221.634 81.425" xml:space="preserve">
+	 width="221px" height="71px" viewBox="0 0 221.634 81.425" enable-background="new 0 0 221.634 81.425" xml:space="preserve">
 <g>
 	<polyline fill="#3EAD49" points="45.708,23.848 45.718,23.847 45.713,23.842 45.708,23.848 	"/>
 	<path fill="#3EAD49" d="M45.461,23.49c0.465,0.129,0.541,0.255,0.493,0.329h0.001c0.239-0.39-0.134-0.549-0.664-0.593
@@ -222,5 +222,5 @@
 <ellipse fill="#3EAD49" cx="8.544" cy="39.421" rx="1.122" ry="1.439"/>
 <ellipse fill="#3EAD49" cx="112.591" cy="39.439" rx="1.121" ry="1.439"/>
 <rect x="114.429" y="7.217" fill="none" width="235.129" height="90.117"/>
-<text transform="matrix(1 0 0 1 114.4287 99.8657)"><tspan x="0" y="0" fill="#3EAD49" font-family="'MyriadPro-Regular'" font-size="31.8999">GLOBAL EYE</tspan><tspan x="0" y="38.28" fill="#3EAD49" font-family="'MyriadPro-Regular'" font-size="31.8999">PROJECT</tspan></text>
+<text transform="matrix(1 0 0 1 114.4287 10.8657)"><tspan x="0" y="0" fill="#3EAD49" font-family="'MyriadPro-Regular'" font-size="31.8999">GLOBAL EYE</tspan><tspan x="0" y="38.28" fill="#3EAD49" font-family="'MyriadPro-Regular'" font-size="31.8999">PROJECT</tspan></text>
 </svg>
